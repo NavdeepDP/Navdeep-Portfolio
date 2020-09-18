@@ -28,6 +28,11 @@ body {
   font-family: serif;
   color: white;
   font-size: 25px;
+  
+}
+
+#link{
+  color:blue;
 }
 
 .navbar {
@@ -175,3 +180,4 @@ button {
 {
   margin-bottom: 10px;
 }
+
